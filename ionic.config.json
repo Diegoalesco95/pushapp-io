@@ -1,0 +1,7 @@
+{
+  "name": "pushapp-io",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
